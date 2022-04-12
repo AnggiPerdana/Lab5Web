@@ -4,15 +4,12 @@
 ## A. Langkah-Langkah Praktikum
 Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut.
 
-`<!DOCTYPE html>`
-
-`<html lang="en">`
-
-`<head>`
-
-`    <title>Mengenal JavaScript</title>`
-`</head>`
-`<body>`
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Mengenal JavaScript</title>
+</head>
+<body>
     `<h1>Pengenalan Javascript</h1>`
     `<h3>Contoh document.write dan console.log</h3>`
     `<script>`
