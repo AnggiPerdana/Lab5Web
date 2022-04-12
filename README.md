@@ -5,7 +5,7 @@
 Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut.
 
 `<!DOCTYPE html>`
-<html lang="en">
+`<html lang="en">`
 `<head>`
 `    <title>Mengenal JavaScript</title>`
 `</head>`
